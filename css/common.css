@@ -238,3 +238,52 @@ img {
   margin-top: 8px;
 }
 /* #endregion task-4 */
+
+/* #region task-5 */
+.widget {
+}
+.color {
+}
+.change-color {
+  background-color: #4e75ff;
+  color: #fff;
+  border-radius: 8px;
+  padding: 8px 16px;
+  margin-top: 16px;
+}
+/* #endregion task-5 */
+
+/* #region task-6 */
+#controls {
+  background-color: #fef6f6;
+  padding: 32px;
+  width: 500px;
+}
+.input-value {
+  border: 1px solid #808080;
+  border-radius: 8px;
+  text-align: center;
+  width: 150px;
+  height: 40px;
+}
+.create-btn {
+  background-color: #4e75ff;
+  border-radius: 8px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  padding: 8px 31.5px;
+  color: #fff;
+  margin-left: 16px;
+}
+.destroy-btn {
+  background-color: #ff4e4e;
+  border-radius: 8px;
+  padding: 8px 26.5px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  margin-left: 16px;
+}
+/* #endregion task-6 */
