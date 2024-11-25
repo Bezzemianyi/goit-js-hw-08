@@ -181,6 +181,7 @@ img {
   display: flex;
   gap: 48px 24px;
   flex-wrap: wrap;
+  max-width: 1200px;
 }
 /* #endregion task-2 */
 
